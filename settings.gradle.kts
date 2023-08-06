@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "android-playground"
 include(":app")
+include(":data")
+include(":domain")
