@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "android-playground"
-include ':app'
+include(":app")
