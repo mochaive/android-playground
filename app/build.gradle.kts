@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.mocha.android_playground"
-    compileSdk = 33
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.mocha.android_playground"
